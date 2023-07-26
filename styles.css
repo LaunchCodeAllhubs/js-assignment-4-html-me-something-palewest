@@ -12,33 +12,29 @@ h2 {
     text-align: center;
 }
 
-h3 {
-    text-align: center;
-}
-
-h4 {
-    text-align: center;
-    font-style: italic;
-
-}
-
-.byline {
-    font-style: italic;
-    text-align: right;
-}
-
 article {
     border-style: solid;
     margin-right: 250px;
     margin-left: 250px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    padding-top: 35px;
+    margin-bottom: 65px;
+    margin-top: 65px;
+    padding-top: 25px;
     padding-bottom: 50px;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
     text-align: left;
 }
 
+.credits {
+    font-style: italic;
+    font-weight: bold;
+    text-align: right;
+}
 
+#mainHeading {
+    color: red;
+}
 
+.funParagraph {
+    color: green;
+}
